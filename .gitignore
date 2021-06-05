@@ -1,0 +1,10 @@
+# CLion
+/.idea
+/cmake-build-*
+
+# input files
+*.json
+*.png
+
+# output files
+*.inl
